@@ -1,5 +1,9 @@
 # 💫 About Me:
-Energetic computer science enthusiast with a strong interest in software development.<br>I'm always eager to learnand collaborate on exciting projects.<br>Having Around two yearof experience, I excel at designing and coding solutions while solving problems creatively.<br>I'm fluent in several programming languages and strive for high-quality results.<br>I'm ready to bring my passion and skills to your team.
+Software Development Engineer with nearly 3 years of experience in developing robust web, mobile, and backend
+solutions. Proficient in React.js, Node.js, Next.js, TypeScript, NestJS, Mysql, MongoDB and React Native. with
+expertise in developing CRM systems and microservices and integrating third-party services. Experienced in AWS
+deployment and Docker containerization, with a strong focus on performance optimization and user-centric
+development.
 
 
 ## 🌐 Socials:
