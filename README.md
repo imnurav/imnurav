@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Development Engineer with nearly 3 years of experience in developing robust web, mobile, and backend
+Software Development Engineer with more than 3 years of experience in developing robust web, mobile, and backend
 solutions. Proficient in React.js, Node.js, Next.js, TypeScript, NestJS, Mysql, MongoDB and React Native. with
 expertise in developing CRM systems and microservices and integrating third-party services. Experienced in AWS
 deployment and Docker containerization, with a strong focus on performance optimization and user-centric
