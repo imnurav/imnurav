@@ -1,32 +1,121 @@
-# 💫 About Me:
-Software Development Engineer with more than 3 years of experience in developing robust web, mobile, and backend
-solutions. Proficient in React.js, Node.js, Next.js, TypeScript, NestJS, Mysql, MongoDB and React Native. with
-expertise in developing CRM systems and microservices and integrating third-party services. Experienced in AWS
-deployment and Docker containerization, with a strong focus on performance optimization and user-centric
-development.
+<div align="center">
 
+<h1>Varun Kumar</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imnurav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imnurav/) 
+<p><strong>Software Engineer · Backend & Full-Stack · New Delhi 🇮🇳</strong></p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p>
+  <a href="https://varunx.netlify.app"><img src="https://img.shields.io/badge/Portfolio-varunx.netlify.app-6366F1?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/imnurav"><img src="https://img.shields.io/badge/LinkedIn-imnurav-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://www.npmjs.com/~nurav"><img src="https://img.shields.io/badge/npm-@nurav-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/></a>
+  &nbsp;
+  <a href="https://x.com/iamnurav"><img src="https://img.shields.io/badge/X-@iamnurav-000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  &nbsp;
+  <a href="mailto:kumarvarun9811@gmail.com"><img src="https://img.shields.io/badge/Gmail-kumarvarun9811-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imnurav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=imnurav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imnurav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <img src="https://img.shields.io/badge/3%2B_Years-Production_Engineering-22c55e?style=flat-square" alt="Experience"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/EdTech-Khan_Global_Studies-f59e0b?style=flat-square" alt="Company"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-6366F1?style=flat-square" alt="Status"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imnurav&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imnurav&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imnurav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+Backend & full-stack engineer with **3+ years building production systems** at [Khan Global Studies](https://khangs.com) — one of India's fast-growing EdTech platforms. Started as an intern, shipped to production in 3 months, and have been owning systems end-to-end ever since.
+
+I specialize in high-concurrency backend architecture, microservices design, and full-stack delivery. I don't just write code — I architect systems that scale, migrate platforms without downtime, and automate operations that free up engineering time.
+
+Most recently, I published **[envguard](https://www.npmjs.com/package/@nurav/envguard)** — a developer-first CLI for managing `.env` files, now used across teams.
+
+> 📬 **Open to backend / full-stack roles** → [kumarvarun9811@gmail.com](mailto:kumarvarun9811@gmail.com) · [varunx.netlify.app](https://varunx.netlify.app)
+
+---
+
+## Impact
+
+> Real numbers. Real systems. Real traffic.
+
+| What I Built | How I Built It | Impact |
+|---|---|---|
+| Order Management System | NestJS · BullMQ · idempotent retries | Handles **1,000+ concurrent orders** reliably |
+| Microservices Migration | Node.js · Knex · Objection · MySQL | **40% reduction** in API latency |
+| Platform SSR Rebuild | Next.js · 90% server-rendered | **40% SEO improvement** |
+| CRM & Logistics Automation | NestJS · Shiprocket API integration | **50% fewer** manual operations |
+| Cross-Platform Mobile App | React Native · HLS streaming · offline mode | Shipped on **Android & iOS** |
+
+---
+
+## Open Source · envguard
+
+<div align="center">
+
+[![npm version](https://img.shields.io/npm/v/@nurav/envguard?style=flat-square&color=CB3837&label=version)](https://www.npmjs.com/package/@nurav/envguard)
+[![npm downloads](https://img.shields.io/npm/dm/@nurav/envguard?style=flat-square&color=CB3837&label=monthly%20downloads)](https://www.npmjs.com/package/@nurav/envguard)
+[![license](https://img.shields.io/npm/l/@nurav/envguard?style=flat-square&color=22c55e)](https://www.npmjs.com/package/@nurav/envguard)
+
+</div>
+
+**[`@nurav/envguard`](https://www.npmjs.com/package/@nurav/envguard)** — a CLI that solves the `.env` problem every engineering team has, but no one ever fixes.
+
+Validates, syncs, and enforces environment variable schemas across local dev, CI/CD pipelines, and production deployments. No more missing keys causing 2am incidents.
+
+```bash
+npm i -g @nurav/envguard
+
+envguard check           # Catch missing keys before they catch you
+envguard sync            # Auto-fill keys from .env.example
+envguard check --strict  # Fail the build if keys are missing (perfect for CI)
+envguard check --json    # Structured output for scripting & automation
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Backend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+
+**Frontend & Mobile**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Data**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS_EC2%2FS3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>If envguard saves your team from a 2am incident, a ⭐ on the repo would mean a lot.</sub>
+</div>
