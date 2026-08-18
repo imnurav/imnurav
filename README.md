@@ -3,9 +3,9 @@
 <h1>Varun Kumar</h1>
 
 <h3>Software Engineer · Backend & Full-Stack · New Delhi 🇮🇳</h3>
-
+https://imnurav.github.io/
 <p>
-  <a href="https://varunx.netlify.app"><img src="https://img.shields.io/badge/Portfolio-varunx.netlify.app-6366F1?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://imnurav.github.io/"><img src="https://img.shields.io/badge/Portfolio-varunx.netlify.app-6366F1?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
   &nbsp;
   <a href="https://linkedin.com/in/imnurav"><img src="https://img.shields.io/badge/LinkedIn-imnurav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
